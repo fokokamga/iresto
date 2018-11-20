@@ -77,7 +77,7 @@ $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'root',
-	'password' => 'root',
+	'password' => '',
 	'database' => 'i_resto',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
@@ -94,4 +94,4 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
-$db['default']['port'] = 8889;
+$db['default']['port'] = 3306;
