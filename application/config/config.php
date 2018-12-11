@@ -81,7 +81,7 @@ $config['send_confirm_link'] = TRUE;
   |
   | When make it TRUE history in admin panel will work
  */
-$config['admin_history'] = false;
+$config['admin_history'] = true;
 
 /*
   |--------------------------------------------------------------------------
@@ -95,8 +95,8 @@ $config['admin_history'] = false;
   | hepler for help.. :)
   |
  */
-$config['language'] = 'english';
-$config['language_abbr'] = 'en';
+$config['language'] = 'francais';
+$config['language_abbr'] = 'fr';
 $config['currency'] = '€';
 $config['currencyKey'] = 'EUR';
 
