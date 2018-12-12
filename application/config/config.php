@@ -96,7 +96,7 @@ $config['admin_history'] = true;
   |
  */
 $config['language'] = 'francais';
-$config['language_abbr'] = 'fr';
+$config['language_abbr'] = 'en';
 $config['currency'] = '€';
 $config['currencyKey'] = 'EUR';
 

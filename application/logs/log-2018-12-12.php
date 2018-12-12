@@ -225,3 +225,62 @@ ERROR - 2018-12-12 01:04:20 --> Could not find the language line "pagination_las
 ERROR - 2018-12-12 01:04:36 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
 ERROR - 2018-12-12 01:04:48 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
 ERROR - 2018-12-12 01:05:47 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
+ERROR - 2018-12-12 01:09:36 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
+ERROR - 2018-12-12 01:09:47 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
+ERROR - 2018-12-12 01:09:48 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
+ERROR - 2018-12-12 01:10:05 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:10:05 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:10:05 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:10:11 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
+ERROR - 2018-12-12 01:13:14 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:13:14 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:13:15 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:13:17 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:13:17 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:13:18 --> 404 Page Not Found: /index
+ERROR - 2018-12-12 01:14:01 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
+ERROR - 2018-12-12 01:14:09 --> Severity: error --> Exception: syntax error, unexpected 'API' (T_STRING) D:\Xammp\htdocs\iresto\application\language\francais\rest_controller_lang.php 8
+ERROR - 2018-12-12 01:22:41 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 01:22:41 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 01:22:41 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 01:22:41 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 01:22:45 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 01:22:45 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 01:22:45 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 01:22:45 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 01:22:45 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 01:22:45 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 01:22:45 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 127
+ERROR - 2018-12-12 01:31:08 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 01:31:08 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 01:31:08 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 01:31:08 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 01:31:10 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 01:31:10 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 01:31:10 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 01:31:10 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 01:31:10 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 01:31:10 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 01:31:10 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 127
+ERROR - 2018-12-12 01:31:29 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 01:31:29 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 01:31:29 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 127
+ERROR - 2018-12-12 01:31:47 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 01:31:47 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 01:31:47 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 01:31:47 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 17:11:05 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 17:11:05 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 17:11:05 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 17:11:05 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 17:21:42 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 17:21:42 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 17:21:42 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 17:21:42 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 17:21:56 --> Could not find the language line "pagination_first_link"
+ERROR - 2018-12-12 17:21:56 --> Could not find the language line "pagination_next_link"
+ERROR - 2018-12-12 17:21:56 --> Could not find the language line "pagination_prev_link"
+ERROR - 2018-12-12 17:21:56 --> Could not find the language line "pagination_last_link"
+ERROR - 2018-12-12 17:21:56 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 17:21:56 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 121
+ERROR - 2018-12-12 17:21:56 --> Severity: Notice --> A non well formed numeric value encountered D:\Xammp\htdocs\iresto\application\libraries\Loop.php 127
